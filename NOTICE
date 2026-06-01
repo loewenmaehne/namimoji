@@ -1,0 +1,35 @@
+Namimoji — a tactile-communication standard (specification in development)
+Copyright (c) 2026 Julian Zienert
+
+This repository is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0) by default — including files added
+later, to the extent the editor holds the rights; see the LICENSE file.
+Where a particular file or directory is marked under a different license
+— by a LICENSE file in its directory or by an SPDX-License-Identifier
+within the file — that marking governs the copyright in it instead; the
+patent rights described in PATENT_POLICY.md remain reserved throughout.
+Third-party material incorporated here remains under its own terms and is
+not licensed by the editor. Any sui generis database right the editor
+holds in this repository as a collection is licensed under CC BY 4.0 as
+part of this default grant.
+
+When reusing any of these materials, attribute them to the Namimoji project
+— Julian Zienert, editor (https://namimoji.com) — under CC BY 4.0, keep this
+notice, and indicate if you made changes. Materials in any subdirectory
+that carries its own LICENSE are attributed as that license requires, not
+under this notice.
+
+The copyright in this repository's CC BY 4.0 materials is retained by the
+copyright holder; the CC BY 4.0 license does not transfer it. The editor
+reserves the right to assign or transfer that copyright — and, separately,
+the patent rights described in PATENT_POLICY.md — to a successor of the
+editor's choosing; the editor's present intent is to transfer them, over
+time, to a non-profit foundation established to steward Namimoji. Any such
+transfer does not affect the rights already granted to the public under
+CC BY 4.0.
+
+This repository does not currently accept external contributions; terms
+for accepting them, if any, will be published in a CONTRIBUTING file.
+
+This copyright license grants no patent or trademark rights.
+Patent: see PATENT_POLICY.md.  Trademark: see the notice in README.md.
